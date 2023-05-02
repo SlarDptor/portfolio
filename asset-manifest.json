@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0776b003.css",
+    "main.js": "/static/js/main.6dd07924.js",
+    "static/media/deskAndLamp.jpg": "/static/media/deskAndLamp.0cb1742b989c8f0206fd.jpg",
+    "static/media/portfolio.png": "/static/media/portfolio.a4e144c8f95199f40f90.png",
+    "static/media/wd.png": "/static/media/wd.253560e9c2694b11001b.png",
+    "static/media/chqp.png": "/static/media/chqp.fa896ac9cd92b7220d37.png",
+    "static/media/tooledTemplate.png": "/static/media/tooledTemplate.b47fe876c4563d612141.png",
+    "static/media/timeHud.png": "/static/media/timeHud.39e08fb3349dde773818.png",
+    "index.html": "/index.html",
+    "main.0776b003.css.map": "/static/css/main.0776b003.css.map",
+    "main.6dd07924.js.map": "/static/js/main.6dd07924.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0776b003.css",
+    "static/js/main.6dd07924.js"
+  ]
+}
